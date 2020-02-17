@@ -1,2 +1,3 @@
 # hello-world
-first program
+
+hi, i am Shouming, it is README.
